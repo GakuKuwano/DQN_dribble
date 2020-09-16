@@ -22,7 +22,9 @@ python predict.py result/-/-.h5
 ## 実行結果
 
 学習途中
+
 https://drive.google.com/file/d/1kR76qv_U072IAZ35c7qeURwYtEEJEV9k/view?usp=sharing
 
 1000回学習後
+
 https://drive.google.com/file/d/1CeGiz-8_oei5AqAxq-B9WBY2rcGCgni0/view?usp=sharing
